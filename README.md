@@ -1,8 +1,8 @@
 # Vinay S
-###### Address: #137 belathur main road, belathur bus stop,Bangalore-560067
+###### Address: #43/58, Shri Sai Siddhi,Kr Garden 1st main, Murugeshpalya,Old Airport Compound Wall,BANGALORE - 560017
 ###### Email ID: vins18cs@cmrit.ac.in 
 
-###### Mobile No: +91 8197208163
+###### Mobile No: +91 7019959405
 
 
 
@@ -39,12 +39,6 @@ MYsql database.
 Learning Outcome: Got to learn the concepts of databases and python with DJANGO properly 
 by implementing the project successfully.
 
-- Project 2
-Title: Netflix clone 
-Description: This is an attempted replica of the existing ott platform NETFLIX.
-Learning Outcome: Got to learn the concepts of REACT.JS, JAVASCRIPT, ASTRADB, NETLIFY properly 
-by implementing the project successfully.
-
 ### Co-Curricular Activities & Extra-Curricular Activities
 
 ##### Co- Curricular Activities
@@ -53,7 +47,6 @@ by implementing the project successfully.
 
 ##### Extra – Curricular Activities
 - Football.
-- Worked as volunteer for a NGO.
 -  gaming.
 
 
@@ -63,7 +56,7 @@ by implementing the project successfully.
 
 ### PERSONAL DETAILS
 
-Date of Birth :   27/09/2000
+Date of Birth :   17/10/2000
 
 Gender :M
 
@@ -71,8 +64,8 @@ Nationality :Indian
 
 Marital Status :Single
 
-Permanent Address :#137,100 ft road, indranagar, Bamgalore
+Permanent Address :#43/58, Shri Sai Siddhi,Kr Garden 1st main, Murugeshpalya,Old Airport Compound Wall,BANGALORE - 560017
 
-Languages Known :English,Kannada,Tamil,Hindi
+Languages Known :English,Kannada,Telugu,Hindi
 
 Hobbies :Football,movies,gaming
